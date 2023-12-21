@@ -72,7 +72,7 @@
 		<CategoryType name="Network">
 			<Category name="GSM"/>
 			<Category name="WCDMA"/>
-			<Category name="VoLTE"/>
+			<Category name="VOLTE"/>
 			<Category name="CDMA"/>
 		</CategoryType>
 	</CategoryTypeList>
@@ -100,7 +100,5 @@
 		<Param name="UL IIR visibility" type="int"/>
 		<Param name="UL MIC IIR visibility" type="int"/>
 		<Param name="DV visibility" type="int"/>
-		<Param name="UL Gain Set" type="int"/>
-		<Param name="UL Gain Name" type="string_array"/>
 	</ParamUnit>
 </ParamUnitDesc>

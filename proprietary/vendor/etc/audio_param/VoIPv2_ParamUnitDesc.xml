@@ -18,9 +18,8 @@
                 <Category name="5_pole_Headset+ANC" wording="5-pole headset(ANC ON)" feature_option="MTK_HEADSET_ACTIVE_NOISE_CANCELLATION"/>
             </CategoryGroup>
             <CategoryGroup name="Hands-free">
- 
+                <Category name="Handsfree" wording="Hands-free(1-mic NR)"/>
                 <Category name="MagiConference" wording="Hands-free(2-mic NR)"/>
-				<Category name="Handsfree" wording="Hands-free(1-mic NR)"/>
             </CategoryGroup>
             <CategoryGroup name="BT Device" wording="Bluetooth">
                 <Category name="BT_Earphone" wording="BT_NREC_On"/>

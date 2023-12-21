@@ -4,7 +4,7 @@
     <Param path="" param_id="0"/>
     <Param path="GSM" param_id="1"/>
     <Param path="WCDMA" param_id="2"/>
-    <Param path="VOLTE" param_id="3"/>
+    <Param path="VoLTE" param_id="3"/>
     <Param path="CDMA" param_id="4"/>
   </ParamTree>
   <ParamUnitPool>

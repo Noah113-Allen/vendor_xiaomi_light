@@ -1105,12 +1105,15 @@ PRODUCT_PACKAGES += \
     libaal_cust \
     libaal_mtk \
     libaalservice \
+    libaiselector \
+    libdpframework \
     libged \
     libgpu_aux \
     libgpud \
     libgralloc_extra \
     libmml \
     libpq_cust_base \
+    libpq_prot \
     libpqframework \
     vendor.mediatek.hardware.pq@2.14 \
     vendor.mediatek.hardware.pq@2.15 \
@@ -1129,13 +1132,7 @@ PRODUCT_PACKAGES += \
     libspeechparser_vendor \
     libvow_ap_test_aa \
     libvow_ap_test_dd \
-    libaiselector \
-    libdpframework \
-    libpq_prot \
     hwcomposer.mt6833 \
     libcomposer_ext \
     libpqparamparser \
-    libaiselector \
-    libdpframework \
-    libpq_prot \
     vendor.mediatek.hardware.pq@2.2-service
